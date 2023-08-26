@@ -1,3 +1,4 @@
-## 🧩 ReVanced Patches
+## 🧩 nyaGmsCore Patches
 
-Patches for ReVanced.
+Patches to make apps use nyaGmsCore.  
+## WIP
